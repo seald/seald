@@ -1,3 +1,10 @@
+# 20/02/2017 v0.1.6
+* Added check for update option in context menu
+* Compatibility with system-wide proxy settings
+* Bumped dependencies
+* Changed the whole interface
+* Fixed slow startup bug on Windows 7
+
 # 30/01/2017 v0.1.5
 
 * Auto-launcher didn't work after the migration to NSIS
