@@ -1,3 +1,12 @@
+# 01/03/2017 v0.1.7
+* Update contact list when contact automatically added with Chrome extension
+* Allow to add a contact from a contact search
+* Enhanced duplicate contacts warning window
+* Fixed a bug in bug report window
+* Automatically hide the main window after contacts have been selected
+* Implemented a heartbeat
+* Many design tweaks
+
 # 20/02/2017 v0.1.6
 * Added check for update option in context menu
 * Compatibility with system-wide proxy settings
