@@ -1,3 +1,9 @@
+# 08/03/2017 v0.1.8
+* Implemented optional silent updates
+* Changed pixelated Windows taskbar icon
+* Implemented contact suggestions
+* Many design tweaks
+
 # 01/03/2017 v0.1.7
 * Update contact list when contact automatically added with Chrome extension
 * Allow to add a contact from a contact search
