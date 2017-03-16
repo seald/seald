@@ -1,3 +1,10 @@
+# 16/03/2017 v0.1.9
+* Added basic preference window
+* Added option to have multiple email addresses linked to your account
+* Changed how file-encryption works: encrypting multiple files will now by default result in one encrypted archive instead of multiple encrypted files
+* Added setting to control this file-encryption behaviour
+* Multiple design tweaks and small bug fixes
+
 # 08/03/2017 v0.1.8
 * Implemented optional silent updates
 * Changed pixelated Windows taskbar icon
