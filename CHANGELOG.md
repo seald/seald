@@ -1,3 +1,9 @@
+# 29/03/2017 v0.1.10
+* Fully compatible with proxy
+* Merging 'Contact-List' and 'Add Contacts' screen. Having both created lots of confusion
+* Adding confirmation when you encrypt for yourself only
+* Multiple design tweaks and small bug fixes
+
 # 16/03/2017 v0.1.9
 * Added basic preference window
 * Added option to have multiple email addresses linked to your account
