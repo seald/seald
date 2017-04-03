@@ -1,3 +1,7 @@
+# 03/04/2017 v0.1.11
+* Adding 'Extensions' tab in preferences
+* Adding extension for Slack desktop app
+
 # 29/03/2017 v0.1.10
 * Fully compatible with proxy
 * Merging 'Contact-List' and 'Add Contacts' screen. Having both created lots of confusion
