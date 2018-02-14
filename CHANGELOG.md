@@ -1,3 +1,13 @@
+# 14/02/2018 v0.1.12
+* Adding ability to encrypt for people who do not have Seald installed, and new file format
+* Adding plugin for Outlook
+* Adding compatibility with Linux (experimental)
+* Adding config option to toggle auto-start on boot
+* Interface details
+* Correcting a few quirks here and there
+* Dropping compatibility with Slack desktop app
+* Deprecating ability to encrypt messages inline with right-click & current Chrome extension
+
 # 03/04/2017 v0.1.11
 * Adding 'Extensions' tab in preferences
 * Adding extension for Slack desktop app
