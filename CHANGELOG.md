@@ -1,3 +1,8 @@
+# 16/02/2018 v0.1.13
+* Fix opening of new file format on macOS after update
+* Fix memory leak on Windows
+* Interface details
+
 # 14/02/2018 v0.1.12
 * Adding ability to encrypt for people who do not have Seald installed, and new file format
 * Adding plugin for Outlook
