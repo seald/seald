@@ -1,3 +1,11 @@
+# 25/02/2018 v0.1.14
+* Fix opening of old Seald files
+* Fix macOS not knowing Seald can open certain files
+* Fix weird error message after update on Windows
+* Fix opening of encrypted files for non-Seald users on IE
+* Fix a few bugs on Outlook plugin
+* Interface details
+
 # 16/02/2018 v0.1.13
 * Fix opening of new file format on macOS after update
 * Fix memory leak on Windows
