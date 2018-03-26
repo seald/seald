@@ -1,3 +1,13 @@
+# 26/03/2018 v0.1.15
+* No more beta keys !
+* Adding ability to view Seald email files with desktop app
+* Contacts are now displayed sorted alphabetically
+* New PDF previewer for users without Seald
+* Fix macOS problem on file registration
+* Fix handling of emails containing images & ability to encrypt in answer panel in Outlook plugin
+* Fix encryption progress bar
+* Interface details & minor bugs
+
 # 25/02/2018 v0.1.14
 * Fix opening of old Seald files
 * Fix macOS not knowing Seald can open certain files
