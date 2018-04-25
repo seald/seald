@@ -1,3 +1,8 @@
+# 25/04/2018 v0.1.16
+* Decrypting files when you do not have Seald is now safer and updatable
+* Large internal changes in prevision of future features
+* Interface details & minor bugs
+
 # 26/03/2018 v0.1.15
 * No more beta keys !
 * Adding ability to view Seald email files with desktop app
