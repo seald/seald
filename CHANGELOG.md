@@ -1,4 +1,4 @@
-# 16/05/2018 v0.1.17
+# 16/05/2018 v0.1.18
 * Fix corruption of attached images when sending a feedback
 * Fix a bug where encryption in explorer context menu on windows would fail
 * Enhancements to web decryption client (when you do not have seald)
