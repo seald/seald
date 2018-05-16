@@ -1,3 +1,11 @@
+# 16/05/2018 v0.1.17
+* Fix corruption of attached images when sending a feedback
+* Fix a bug where encryption in explorer context menu on windows would fail
+* Enhancements to web decryption client (when you do not have seald)
+* Removing a few obsolete features
+* Large internal changes in prevision of future features
+* Interface details & minor bugs
+
 # 25/04/2018 v0.1.16
 * Decrypting files when you do not have Seald is now safer and updatable
 * Large internal changes in prevision of future features
