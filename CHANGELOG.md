@@ -1,3 +1,8 @@
+# 18/05/2018 v0.1.19
+* Fix a bug where the app could re-open the wizard and re-create an account in rare cases
+* Fix a bug where the app could skip wizard even if it was not finished
+* Fix issues with email validation when asking to resend email
+
 # 16/05/2018 v0.1.18
 * Fix corruption of attached images when sending a feedback
 * Fix a bug where encryption in explorer context menu on windows would fail
