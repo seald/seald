@@ -1,3 +1,14 @@
+# 02/07/2018 v0.1.20
+* Adding ability to save contacts who do not have Seald yet
+* Adding a progress dialog when decrypting files
+* On Windows, using a close button to hide the window instead of hiding it when losing focus, so drag&drop-ing files works much better
+* Translating the decrypt webpage for people who do not have Seald yet (translation of the app & more languages soon)
+* Add automatic check for file association on app startup & in preference window
+* Fixing a bug for contacts without Seald where previewing a PDF file could fail
+* Fix a glitch where the app could tell you it just updated when it had not
+* Remove notifications when automatic update check fails for trivial reasons (like no internet connectivity)
+* Interface details & minor bugs
+
 # 18/05/2018 v0.1.19
 * Fix a bug where the app could re-open the wizard and re-create an account in rare cases
 * Fix a bug where the app could skip wizard even if it was not finished
