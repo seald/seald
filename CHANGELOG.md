@@ -1,3 +1,10 @@
+# 09/08/2018 v0.1.21
+* Registration is now much faster & displays more information in case of a problem
+* Enhance security of the Seald Mail previewer
+* Add a link to the Dashboard
+* Fix display of files with a given recipient & geolocation in the Dashboard
+* Interface details & minor bugs
+
 # 02/07/2018 v0.1.20
 * Adding ability to save contacts who do not have Seald yet
 * Adding a progress dialog when decrypting files
