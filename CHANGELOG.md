@@ -1,5 +1,6 @@
 # 27/08/2018 v0.1.22
 * Add logs to help debugging
+* New version of the Outlook plugin, more streamlined workflow & correcting bugs
 
 # 09/08/2018 v0.1.21
 * Registration is now much faster & displays more information in case of a problem
