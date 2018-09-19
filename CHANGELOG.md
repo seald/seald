@@ -1,3 +1,10 @@
+# 20/09/2018 v0.1.23
+* Fix detection of Outlook installation on some setups
+* Show notification when a contact first reads a message (premium accounts only)
+* Show error when account is revoked
+* Significant improvements on the Outlook plugin, new design & bug fixes
+* Interface details & minor bugs
+
 # 27/08/2018 v0.1.22
 * Add logs to help debugging
 * New version of the Outlook plugin, more streamlined workflow & correcting bugs
