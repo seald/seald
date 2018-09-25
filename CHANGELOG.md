@@ -1,3 +1,6 @@
+# 25/09/2018 v0.1.24
+* Fix detection of Outlook installation on some setups
+
 # 20/09/2018 v0.1.23
 * Fix detection of Outlook installation on some setups
 * Show notification when a contact first reads a message (premium accounts only)
