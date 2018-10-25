@@ -1,3 +1,14 @@
+# 25/10/2018 v0.1.25
+* When opening an encrypted file, it will now automatically open in the default app, and will be saved in encrypted format automatically when any modifications happen
+* In web decryption interface, add support for previewing images
+* In web decryption interface, allow drag&drop-ing a file to decrypt
+* In web decryption interface, session is now persistent and you do not have to re-authenticate each time
+* Use new, cleaner URLs for web decryption interface & premium dashboard
+* Auto-update is now more stable, and proposes a manual update when it fails
+* Outlook plugin is now faster to open emails
+* Add hidden config option to completely disable registry on windows (file association & auto-launch will not happen)
+* Interface details & minor bugs
+
 # 25/09/2018 v0.1.24
 * Fix detection of Outlook installation on some setups
 
