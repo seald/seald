@@ -1,3 +1,16 @@
+# 13/12/2018 v0.1.26
+* Opening a Seald file in your browser mistakenly (for example clicking in Chrome download bar) will now be properly forwarded to the Seald app
+* In the web decryption interface, adding the ability to reply to emails (when sent by a premium user)
+* In the Outlook plugin, adding the ability to encrypt only the attachments or everything, and new interface
+* Adding a tab in the preference window to show the last connexions to your account
+* Sending security alerts by email when certain events happen on your account
+* Opening a Seald file in the GMail previewer mistakenly now shows a correct error message
+* In the web decryption interface, disabling PPTX preview because of security issues
+* In the web decryption interface, errors are now more verbose and clearer
+* In the Outlook plugin, the name of the attachment containing the encrypted email body is now clearer (based on email subject)
+* Fix some interface issues on Linux
+* Interface details & minor bugs
+
 # 25/10/2018 v0.1.25
 * When opening an encrypted file, it will now automatically open in the default app, and will be saved in encrypted format automatically when any modifications happen
 * In web decryption interface, add support for previewing images
