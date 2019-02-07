@@ -1,3 +1,9 @@
+# 07/02/2019 v0.1.27
+* Add support for admin-configured automatic rules for Outlook plugin
+* Add page to control access to a file, add & revoke (premium only) recipients, and see number of views (premium only)
+* Outlook plugin now adds recipients when forwarding a message
+* Interface details & minor bugs
+
 # 13/12/2018 v0.1.26
 * Opening a Seald file in your browser mistakenly (for example clicking in Chrome download bar) will now be properly forwarded to the Seald app
 * In the web decryption interface, adding the ability to reply to emails (when sent by a premium user)
